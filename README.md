@@ -1,0 +1,2 @@
+# ElectronDemo
+这个repo用来测试Electron框架的自动更新流程
